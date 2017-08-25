@@ -1,0 +1,32 @@
+CAHIER DES CHARGES DU GAME CONCEPT
+
+Intitulé du jeu: Hordes-like
+
+
+A - FICHE PRODUIT :
+Renseignez chaque catégorie afin de définir votre jeu en général.  
+Genre/Style : browser strategy rpg multiplayer survival real time
+Plate-forme : Navigateur
+Moteur : openGL
+Nombre de Joueurs: 1-9999
+Pegi : Tous publics
+
+B - PITCH:
+Brève description devant cadrer et donner l'idée de votre concept, en quelques lignes.
+Exemple :
+Dans un monde apocalyptique, chaque joueur essaye de survivre. Il doit lutter contre les zombies du jeu, les catastrophes naturelles et éventuellment contre les autres joueurs.
+
+
+C - PRINCIPE DE JEU
+Chaque joueur commence le jeu sans items.
+Il peut jouer solo ou s'allier avec d'autres joueurs afin de survivre.
+Les groupes de joueurs forment des villes qui les protègent mais qui sont la cible des attaques de zombies.
+Les joueurs solo vivent dans des cabanes/grottes qui ne sont pas ciblées par les zombies.
+La dernière ville gagne, le dernier joueur gagne aussi.
+
+D - INSPIRATION:
+-Hordes
+-MMORPG
+
+E -  POINT-CLES:
+-coopetition
